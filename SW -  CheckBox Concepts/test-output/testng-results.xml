@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8118" started-at="2020-08-03T14:42:37Z" finished-at="2020-08-03T14:42:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8118" started-at="2020-08-03T14:42:37Z" finished-at="2020-08-03T14:42:45Z">
+      <class name="CheckBoxDemo.TestCheckboxs">
+        <test-method status="PASS" signature="TestRadioBtn()[pri:0, instance:CheckBoxDemo.TestCheckboxs@71e7a66b]" name="TestRadioBtn" duration-ms="8098" started-at="2020-08-03T20:12:37Z" finished-at="2020-08-03T20:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRadioBtn -->
+      </class> <!-- CheckBoxDemo.TestCheckboxs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
